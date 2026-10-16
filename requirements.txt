@@ -1,0 +1,11 @@
+pymupdf
+fastapi
+uvicorn
+python-multipart
+fastembed
+chromadb
+rapidocr-onnxruntime
+opencv-python-headless
+numpy
+requests
+rank-bm25
